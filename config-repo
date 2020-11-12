@@ -1,6 +1,6 @@
-// 开发环境
+// 开发
 config-client-dev.yml
-// 测试环境
+// 测试
 config-client-test.yml
-// 生产环境
+// 生产
 config-client-prod.yml
