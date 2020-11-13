@@ -1,4 +1,2 @@
-info:
-  profile: prod
 neo:
-  hello: dev
+  hello: prod
