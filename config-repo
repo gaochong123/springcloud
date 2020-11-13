@@ -1,6 +1,0 @@
-// 开发
-config-client-dev.yml
-// 测试
-config-client-test.yml
-// 生产
-config-client-prod.yml
