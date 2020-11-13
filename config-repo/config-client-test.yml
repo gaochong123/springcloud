@@ -1,4 +1,2 @@
-info:
-  profile: test
 neo:
-  hello: dev
+  hello: test
